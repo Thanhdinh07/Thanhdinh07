@@ -48,14 +48,9 @@ Hi! I'm **Thanh Dĩnh**, a dedicated Computer Science student with a deep curios
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif" width="220" alt="Spiderman Meme" />
+  <img src="[https://media.giphy.com/media/m3SYK4M5MhAcE/giphy.gif](https://media.giphy.com/media/m3SYK4M5MhAcE/giphy.gif)" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thanhdinh07&show_icons=true&theme=tokyonight&hide_border=true" alt="Thanhdinh07's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanhdinh07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
