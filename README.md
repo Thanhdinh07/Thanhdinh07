@@ -71,7 +71,7 @@ Hi! I'm **Thanh Dĩnh**, a dedicated Computer Science student with a deep curios
 
 <p align="center">
   <!-- Spiderman GIF chuyển động -->
-  <img src="[https://media.giphy.com/media/m3SYK4M5MhAcE/giphy.gif](https://media.giphy.com/media/m3SYK4M5MhAcE/giphy.gif)" />
+  <img src="https://media.giphy.com/media/m3SYK4M5MhAcE/giphy.gif" />
 </p>
 
 <p align="center">
