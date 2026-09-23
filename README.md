@@ -1,23 +1,77 @@
 # Hi there, I'm Thanh Dĩnh 👋
+### 🚀 Computer Science Student & Passionate Developer
 
-### 👨‍💻 About Me
-- 🎓 **Student** | Passionate about Computer Science & Software Engineering
-- 💻 **Tech Stack:** C++, Python, HTML/JavaScript
-- 🛠️ **Learning:** Data Structures & Algorithms, Game Development, Computer Architecture
-- 🎯 **Goal:** Building impactful software and open-source projects
+![Spiderman Banner](https://media.giphy.com/media/b34c0C7S73yJ92y4t4/giphy.gif)
 
 ---
 
-### 🛠️ Languages & Tools
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### 📖 About Me
+Hi! I'm **Thanh Dĩnh**, a dedicated Computer Science student with a deep curiosity for building software, optimizing algorithms, and exploring modern technologies. 
+
+- 🎓 **Education:** Currently pursuing a degree in Computer Science / Software Engineering.
+- 💡 **Core Interests:** Data Structures & Algorithms, Game Development, and System Architecture.
+- 🔭 **Current Focus:** Deepening my understanding of **C++**, **Python**, and building interactive web-based applications.
+- 🌱 **Learning Philosophy:** *"Code every day, refactor constantly, and never stop questioning how things work under the hood."*
+- 🎯 **Long-term Goal:** To become a Full-Stack / Software Engineer contributing to impactful open-source projects.
 
 ---
 
+### 🛠️ Technical Skills
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `C++`, `Python`, `JavaScript`, `HTML5`, `CSS3` |
+| **Core Computer Science** | Data Structures, Algorithms, Computer Architecture, OOP |
+| **Tools & Environment** | `Git`, `GitHub`, `VS Code`, `VMware`, `Windows / Linux` |
+| **Web & Mini-Games** | Vanilla JS, Canvas API, Interactive Web Components |
+
+---
+
+### 🌟 Featured Projects & Highlights
+
+- **[python-journey](https://github.com/Thanhdinh07/python-journey)** 🐍: My comprehensive repository tracking my Python learning path, featuring core concepts, exercises, and mini-projects.
+- **[DA--CTDLVGT](https://github.com/Thanhdinh07/DA--CTDLVGT)** ⚡: Data Structures and Algorithms implementations with visualization in C++.
+- **[sorting-visualization-cpp](https://github.com/Thanhdinh07/sorting-visualization-cpp)** 📊: Visualizing various sorting algorithms using C++ to better understand time complexity and execution flow.
+
+---
+
+### 📈 Current Learning Roadmap (2026)
+
+- [x] Master basic Python syntax, data structures, and file I/O.
+- [x] Build interactive mini-games with JavaScript and HTML5.
+- [/] Dive deeper into Advanced C++ (Pointers, Memory Management, STL).
+- [ ] Implement and optimize Graph Algorithms and Dynamic Programming problems.
+- [ ] Explore Web Backend Frameworks (Flask / FastAPI or Node.js).
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif" width="220" alt="Spiderman Meme" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thanhdinh07&show_icons=true&theme=tokyonight&hide_border=true" alt="Thanhdinh07's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanhdinh07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Thanhdinh07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 ### 📊 GitHub Stats
 
 <p align="center">
