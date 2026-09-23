@@ -1,7 +1,9 @@
 # Hi there, I'm Thanh Dĩnh 👋
 ### 🚀 Computer Science Student & Passionate Developer
 
-![Spiderman Banner](https://media.giphy.com/media/b34c0C7S73yJ92y4t4/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/b34c0C7S73yJ92y4t4/giphy.gif" width="100%" alt="Spiderman Swinging Banner" />
+</p>
 
 ---
 
@@ -48,9 +50,15 @@ Hi! I'm **Thanh Dĩnh**, a dedicated Computer Science student with a deep curios
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/m3SYK4M5MhAcE/giphy.gif](https://media.giphy.com/media/m3SYK4M5MhAcE/giphy.gif)" />
+  <!-- Spiderman Pixel GIF bên cạnh bảng Stats -->
+  <img src="https://media.giphy.com/media/m3SYK4M5MhAcE/giphy.gif" width="200" alt="Spiderman Crawling Pixel" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thanhdinh07&show_icons=true&theme=tokyonight&hide_border=true" alt="Thanhdinh07's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanhdinh07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -66,16 +74,4 @@ Hi! I'm **Thanh Dĩnh**, a dedicated Computer Science student with a deep curios
   <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-### 📊 GitHub Stats
-
-<p align="center">
-  <!-- Spiderman GIF chuyển động -->
-  <img src="https://media.giphy.com/media/m3SYK4M5MhAcE/giphy.gif" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thanhdinh07&show_icons=true&theme=tokyonight&hide_border=true" alt="Thanhdinh07's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanhdinh07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
